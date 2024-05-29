@@ -1,1 +1,4 @@
-# .github
+# Urban Ecosystems Lab
+The Urban Ecosystems Lab (UE Lab) at the University of Arizona strives to research pathways to synergistically foster environmental sustainability, economic prosperity, etc., in future cities. The UE Lab recognizes that a synergistic realization of these potentials lies in cross-cutting collaborations across various disciplines, including, but not limited to, civil engineering, environmental engineering, electrical engineering, computer science, and urban planning and policy. Therefore, the Lab is keen to collaborate with peer research groups of scholars from other disciplines.
+
+The UE Lab also recognizes its members and sponsors as its most important assets and strives to empower them in pursuing their objectives. The UE Lab is dedicated to building a growing family that (a) helps each other grow and (b) pulls their resources to achieve their common goal, i.e., building a better future for everyone.
